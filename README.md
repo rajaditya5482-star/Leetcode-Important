@@ -39,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
