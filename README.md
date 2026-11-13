@@ -10,6 +10,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0322-coin-change](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0322-coin-change/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 ## Hash Table
@@ -64,4 +66,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0322-coin-change/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
