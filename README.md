@@ -42,6 +42,7 @@
 | [0322-coin-change](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +79,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0322-coin-change/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
