@@ -87,4 +87,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
