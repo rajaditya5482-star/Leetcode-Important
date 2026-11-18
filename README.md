@@ -91,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
