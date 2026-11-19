@@ -26,6 +26,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -36,11 +37,13 @@
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0147-insertion-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Hash Table
