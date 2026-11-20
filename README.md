@@ -43,6 +43,7 @@
 | ------- | ------- |
 | [0322-coin-change](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0804-unique-morse-code-words](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0804-unique-morse-code-words/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0804-unique-morse-code-words](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0804-unique-morse-code-words/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +95,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0804-unique-morse-code-words](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0804-unique-morse-code-words/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Simulation
