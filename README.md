@@ -96,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0804-unique-morse-code-words](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0804-unique-morse-code-words/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Simulation
