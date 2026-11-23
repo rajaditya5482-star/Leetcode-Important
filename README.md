@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@
 | [0322-coin-change](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -91,6 +93,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -103,4 +106,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
