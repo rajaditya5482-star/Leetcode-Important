@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +117,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
