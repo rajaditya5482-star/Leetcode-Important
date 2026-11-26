@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [3360-stone-removal-game](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Dynamic Programming
@@ -109,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/rajaditya5482-star/Leetcode-Important/tree/main/3360-stone-removal-game/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
